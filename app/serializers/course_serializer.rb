@@ -1,3 +1,3 @@
 class CourseSerializer < ActiveModel::Serializer
-  attributes :id, :name, :max_students, :credit_hours, :start_time, :end_time
+  attributes :id, :name, :max_students, :length, :end_time
 end
