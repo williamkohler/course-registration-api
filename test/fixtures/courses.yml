@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  max_students: 1
+  credit_hours: 1
+  start_time: 2018-04-09 20:55:12
+  end_time: 2018-04-09 20:55:12
+
+two:
+  name: MyString
+  max_students: 1
+  credit_hours: 1
+  start_time: 2018-04-09 20:55:12
+  end_time: 2018-04-09 20:55:12
